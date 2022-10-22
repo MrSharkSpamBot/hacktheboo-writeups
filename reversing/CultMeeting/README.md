@@ -1,7 +1,7 @@
 # Cult Meeting
 @ChallengeAuthor: clubby789 (Tony_Bamanaboni)\
 @WriteupAuthor: [MrSharkSpamBot]\
-**DISCLAMER: I DO NOT OWN ANY OF THE FILES IN THIS CHALLENGE.**
+**DISCLAMER: I DO NOT OWN ANY OF THE FILES IN THIS rev_cult.**
 
 ## Description
 After months of research, you're ready to attempt to infiltrate the meeting of a shadowy cult. Unfortunately, it looks like they've changed their password!
