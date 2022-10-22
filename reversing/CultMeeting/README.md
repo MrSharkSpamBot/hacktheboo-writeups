@@ -5,13 +5,13 @@ After months of research, you're ready to attempt to infiltrate the meeting of a
 
 ## Solving The Challenge
 Running the challenge file, ```meeting```, we can see that it asks for a password. The obvious answer is ```boo``` so lets try that.
-![image](https://user-images.githubusercontent.com/83559791/197354672-746cdb9a-c1c3-4f78-8f8f-93834f2fe567.png)
+![image](img/img1.png)
 
 Running the ```strings``` command on the file, we find an interesting string.
-![image](https://user-images.githubusercontent.com/83559791/197355265-d1e5a349-b01e-4532-a2bd-895cc401f79b.png)
+![image](img/img2.png)
 
 Lets open up the ```meeting``` file up in [ghidra] and go to the main function to try to find out the use of this string.
-![image](https://user-images.githubusercontent.com/83559791/197364361-afe5c096-0649-4c05-a717-5cdc276e15c7.png)
+![image](img/img3.png)
 
 The decompiled main function is the following:
 ```c++
@@ -46,10 +46,10 @@ The string previous found by the ```strings``` command is the password for the m
 
 Lets try this password.
 
-![image](https://user-images.githubusercontent.com/83559791/197364508-75a991ec-a33e-4aab-8c72-9f0abfc0f822.png)
+![image](img/img4.png)
 
 Now that we know the password works, we can spawn the docker container and connect to it using netcat in order to find the flag.
-![image](https://user-images.githubusercontent.com/83559791/197364594-5da68a3f-4467-4f23-a3da-983e9d3b6ceb.png)
+![image](img/img5.png)
 
 
 [ghidra]: https://github.com/NationalSecurityAgency/ghidra
