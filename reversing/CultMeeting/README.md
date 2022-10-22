@@ -1,5 +1,5 @@
 # Cult Meeting
-@ChallengeAuthor: clubby789 (Tony_Bamanaboni)
+@ChallengeAuthor: clubby789 (Tony_Bamanaboni)\
 @WriteupAuthor: [MrSharkSpamBot]
 
 ## Description
