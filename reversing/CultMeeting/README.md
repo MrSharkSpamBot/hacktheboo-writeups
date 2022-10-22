@@ -1,4 +1,6 @@
 # Cult Meeting
+@ChallengeAuthor: clubby789 (Tony_Bamanaboni)
+@WriteupAuthor: [MrSharkSpamBot]
 
 ## Description
 After months of research, you're ready to attempt to infiltrate the meeting of a shadowy cult. Unfortunately, it looks like they've changed their password!
@@ -54,3 +56,4 @@ Now that we know the password works, we can spawn the docker container and conne
 
 [ghidra]: https://github.com/NationalSecurityAgency/ghidra
 [strcmp]: https://man7.org/linux/man-pages/man3/strcmp.3.html
+[MrSharkSpamBot]: https://github.com/MrSharkSpamBot
