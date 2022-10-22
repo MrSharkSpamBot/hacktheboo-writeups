@@ -9,8 +9,7 @@ Running the challenge file, ```meeting```, you can see that it asks for a passwo
 
 Lets run the ```strings``` command on the file to find anything interesting.
 ![image](https://user-images.githubusercontent.com/83559791/197355265-d1e5a349-b01e-4532-a2bd-895cc401f79b.png)
-
-Now that, seems exceptionally interesting.
+/nNow that, seems exceptionally interesting.
 
 Lets open the file up in [ghidra] and go to the main function.
 
