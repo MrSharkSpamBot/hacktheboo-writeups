@@ -1,6 +1,6 @@
 # Cult Meeting
 @ChallengeAuthor: clubby789 (Tony_Bamanaboni)\
-@WriteupAuthor: [MrSharkSpamBot]
+@WriteupAuthor: [MrSharkSpamBot]\
 **DISCLAMER: I DO NOT OWN ANY OF THE FILES IN THIS CHALLENGE.**
 
 ## Description
