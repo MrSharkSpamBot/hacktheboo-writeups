@@ -46,8 +46,7 @@ undefined8 main(void)
 ```
 The string previous found by the ```strings``` command is the password for the meeting. The [strcmp] function is being used to check if the value read from standard input and the string ```sup3r_s3cr3t_p455w0rd_f0r_u!``` are equivalent.
 
-Lets try this password.
-
+Lets try this password.\
 ![image](img/img4.png)
 
 Now that we know the password works, we can spawn the docker container and connect to it using netcat in order to find the flag.
