@@ -10,7 +10,7 @@ Running the challenge file, ```meeting```, we can see that it asks for a passwor
 Running the ```strings``` command on the file, we find an interesting string.
 ![image](https://user-images.githubusercontent.com/83559791/197355265-d1e5a349-b01e-4532-a2bd-895cc401f79b.png)
 
-Lets open the file up in [ghidra] and go to the main function to try to find out the use of this string.
+Lets open up the ```meeting``` file up in [ghidra] and go to the main function to try to find out the use of this string.
 ![image](https://user-images.githubusercontent.com/83559791/197364361-afe5c096-0649-4c05-a717-5cdc276e15c7.png)
 
 The decompiled main function is the following:
