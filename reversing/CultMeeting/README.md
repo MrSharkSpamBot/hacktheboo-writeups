@@ -45,7 +45,7 @@ undefined8 main(void)
   return 0;
 }
 ```
-The string previous found by the ```strings``` command is the password for the meeting. The [strcmp] function is being used to check if the value read from standard input and the string ```sup3r_s3cr3t_p455w0rd_f0r_u!``` are equivalent.
+The string previously found by the ```strings``` command is the password for the meeting. The [strcmp] function is being used to check if the value read from standard input and the string ```sup3r_s3cr3t_p455w0rd_f0r_u!``` are equivalent.
 
 Lets try this password.\
 ![image](img/img4.png)
