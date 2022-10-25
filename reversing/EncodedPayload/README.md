@@ -1,5 +1,5 @@
 # Encoded Payload
-@ChallengeAuthor:\
+@ChallengeAuthor: [Pusty]\
 @WriteupAuthor: [MrSharkSpamBot]\
 **DISCLAMER: I DO NOT OWN ANY OF THE FILES IN ```rev_encodedpayload.zip```.**
 
@@ -17,5 +17,7 @@ Lets run the [strace] command on the file to see what is going on in the backgro
 ![image](img/img3.png)
 And there's our flag!!!
 
+
+[Pusty]: https://github.com/Pusty/
 [MrSharkSpamBot]: https://github.com/MrSharkSpamBot
 [strace]: https://github.com/strace/strace
