@@ -1,6 +1,6 @@
 # Encoded Payload
 @ChallengeAuthor:\
-@WriteupAuthor:\
+@WriteupAuthor: [MrSharkSpamBot]\
 **DISCLAMER: I DO NOT OWN ANY OF THE FILES IN ```rev_encodedpayload.zip```.**
 
 ## Description
